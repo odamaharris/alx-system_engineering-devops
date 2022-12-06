@@ -1,1 +1,1 @@
-Display the number of lines that contain the pattern “bin” in the file /etc/passwd
+Write a shell script that creates a file named exactly
